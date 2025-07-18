@@ -32,6 +32,6 @@ O site utiliza cores suaves e imagens históricas para representar a elegância 
 
 Você pode visualizar este projeto em seu navegador local:
 
-```bash
+
 1. Clone o repositório
-2. Abra o arquivo `index.html` em seu navegador
+2. Abra o arquivo  'site-AdaLovelace.html' em seu navegador
